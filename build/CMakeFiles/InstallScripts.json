@@ -1,0 +1,8 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/zelion/Documents/cpptest/PassGen/build/cmake_install.cmake",
+		"/home/zelion/Documents/cpptest/PassGen/build/_deps/nana-build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

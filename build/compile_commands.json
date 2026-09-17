@@ -1,0 +1,488 @@
+[
+{
+  "directory": "/home/zelion/Documents/cpptest/PassGen/build",
+  "command": "/usr/bin/c++ -I/home/zelion/Documents/cpptest/PassGen/build/_deps/nana-src/include -isystem /usr/include/freetype2 -g -std=c++17 -o CMakeFiles/password_generator.dir/src/main.cpp.o -c /home/zelion/Documents/cpptest/PassGen/src/main.cpp",
+  "file": "/home/zelion/Documents/cpptest/PassGen/src/main.cpp",
+  "output": "/home/zelion/Documents/cpptest/PassGen/build/CMakeFiles/password_generator.dir/src/main.cpp.o"
+},
+{
+  "directory": "/home/zelion/Documents/cpptest/PassGen/build",
+  "command": "/usr/bin/c++ -DNANA_IGNORE_CONF -I/home/zelion/Documents/cpptest/PassGen/build/_deps/nana-src/include -isystem /usr/include/freetype2 -g -std=c++17 -Wall -fmax-errors=3 -o _deps/nana-build/CMakeFiles/nana.dir/source/any.cpp.o -c /home/zelion/Documents/cpptest/PassGen/build/_deps/nana-src/source/any.cpp",
+  "file": "/home/zelion/Documents/cpptest/PassGen/build/_deps/nana-src/source/any.cpp",
+  "output": "/home/zelion/Documents/cpptest/PassGen/build/_deps/nana-build/CMakeFiles/nana.dir/source/any.cpp.o"
+},
+{
+  "directory": "/home/zelion/Documents/cpptest/PassGen/build",
+  "command": "/usr/bin/c++ -DNANA_IGNORE_CONF -I/home/zelion/Documents/cpptest/PassGen/build/_deps/nana-src/include -isystem /usr/include/freetype2 -g -std=c++17 -Wall -fmax-errors=3 -o _deps/nana-build/CMakeFiles/nana.dir/source/basic_types.cpp.o -c /home/zelion/Documents/cpptest/PassGen/build/_deps/nana-src/source/basic_types.cpp",
+  "file": "/home/zelion/Documents/cpptest/PassGen/build/_deps/nana-src/source/basic_types.cpp",
+  "output": "/home/zelion/Documents/cpptest/PassGen/build/_deps/nana-build/CMakeFiles/nana.dir/source/basic_types.cpp.o"
+},
+{
+  "directory": "/home/zelion/Documents/cpptest/PassGen/build",
+  "command": "/usr/bin/c++ -DNANA_IGNORE_CONF -I/home/zelion/Documents/cpptest/PassGen/build/_deps/nana-src/include -isystem /usr/include/freetype2 -g -std=c++17 -Wall -fmax-errors=3 -o _deps/nana-build/CMakeFiles/nana.dir/source/charset.cpp.o -c /home/zelion/Documents/cpptest/PassGen/build/_deps/nana-src/source/charset.cpp",
+  "file": "/home/zelion/Documents/cpptest/PassGen/build/_deps/nana-src/source/charset.cpp",
+  "output": "/home/zelion/Documents/cpptest/PassGen/build/_deps/nana-build/CMakeFiles/nana.dir/source/charset.cpp.o"
+},
+{
+  "directory": "/home/zelion/Documents/cpptest/PassGen/build",
+  "command": "/usr/bin/c++ -DNANA_IGNORE_CONF -I/home/zelion/Documents/cpptest/PassGen/build/_deps/nana-src/include -isystem /usr/include/freetype2 -g -std=c++17 -Wall -fmax-errors=3 -o _deps/nana-build/CMakeFiles/nana.dir/source/datetime.cpp.o -c /home/zelion/Documents/cpptest/PassGen/build/_deps/nana-src/source/datetime.cpp",
+  "file": "/home/zelion/Documents/cpptest/PassGen/build/_deps/nana-src/source/datetime.cpp",
+  "output": "/home/zelion/Documents/cpptest/PassGen/build/_deps/nana-build/CMakeFiles/nana.dir/source/datetime.cpp.o"
+},
+{
+  "directory": "/home/zelion/Documents/cpptest/PassGen/build",
+  "command": "/usr/bin/c++ -DNANA_IGNORE_CONF -I/home/zelion/Documents/cpptest/PassGen/build/_deps/nana-src/include -isystem /usr/include/freetype2 -g -std=c++17 -Wall -fmax-errors=3 -o _deps/nana-build/CMakeFiles/nana.dir/source/deploy.cpp.o -c /home/zelion/Documents/cpptest/PassGen/build/_deps/nana-src/source/deploy.cpp",
+  "file": "/home/zelion/Documents/cpptest/PassGen/build/_deps/nana-src/source/deploy.cpp",
+  "output": "/home/zelion/Documents/cpptest/PassGen/build/_deps/nana-build/CMakeFiles/nana.dir/source/deploy.cpp.o"
+},
+{
+  "directory": "/home/zelion/Documents/cpptest/PassGen/build",
+  "command": "/usr/bin/c++ -DNANA_IGNORE_CONF -I/home/zelion/Documents/cpptest/PassGen/build/_deps/nana-src/include -isystem /usr/include/freetype2 -g -std=c++17 -Wall -fmax-errors=3 -o _deps/nana-build/CMakeFiles/nana.dir/source/internationalization.cpp.o -c /home/zelion/Documents/cpptest/PassGen/build/_deps/nana-src/source/internationalization.cpp",
+  "file": "/home/zelion/Documents/cpptest/PassGen/build/_deps/nana-src/source/internationalization.cpp",
+  "output": "/home/zelion/Documents/cpptest/PassGen/build/_deps/nana-build/CMakeFiles/nana.dir/source/internationalization.cpp.o"
+},
+{
+  "directory": "/home/zelion/Documents/cpptest/PassGen/build",
+  "command": "/usr/bin/c++ -DNANA_IGNORE_CONF -I/home/zelion/Documents/cpptest/PassGen/build/_deps/nana-src/include -isystem /usr/include/freetype2 -g -std=c++17 -Wall -fmax-errors=3 -o _deps/nana-build/CMakeFiles/nana.dir/source/stdc++.cpp.o -c /home/zelion/Documents/cpptest/PassGen/build/_deps/nana-src/source/stdc++.cpp",
+  "file": "/home/zelion/Documents/cpptest/PassGen/build/_deps/nana-src/source/stdc++.cpp",
+  "output": "/home/zelion/Documents/cpptest/PassGen/build/_deps/nana-build/CMakeFiles/nana.dir/source/stdc++.cpp.o"
+},
+{
+  "directory": "/home/zelion/Documents/cpptest/PassGen/build",
+  "command": "/usr/bin/c++ -DNANA_IGNORE_CONF -I/home/zelion/Documents/cpptest/PassGen/build/_deps/nana-src/include -isystem /usr/include/freetype2 -g -std=c++17 -Wall -fmax-errors=3 -o _deps/nana-build/CMakeFiles/nana.dir/source/unicode_bidi.cpp.o -c /home/zelion/Documents/cpptest/PassGen/build/_deps/nana-src/source/unicode_bidi.cpp",
+  "file": "/home/zelion/Documents/cpptest/PassGen/build/_deps/nana-src/source/unicode_bidi.cpp",
+  "output": "/home/zelion/Documents/cpptest/PassGen/build/_deps/nana-build/CMakeFiles/nana.dir/source/unicode_bidi.cpp.o"
+},
+{
+  "directory": "/home/zelion/Documents/cpptest/PassGen/build",
+  "command": "/usr/bin/c++ -DNANA_IGNORE_CONF -I/home/zelion/Documents/cpptest/PassGen/build/_deps/nana-src/include -isystem /usr/include/freetype2 -g -std=c++17 -Wall -fmax-errors=3 -o _deps/nana-build/CMakeFiles/nana.dir/source/detail/platform_abstraction.cpp.o -c /home/zelion/Documents/cpptest/PassGen/build/_deps/nana-src/source/detail/platform_abstraction.cpp",
+  "file": "/home/zelion/Documents/cpptest/PassGen/build/_deps/nana-src/source/detail/platform_abstraction.cpp",
+  "output": "/home/zelion/Documents/cpptest/PassGen/build/_deps/nana-build/CMakeFiles/nana.dir/source/detail/platform_abstraction.cpp.o"
+},
+{
+  "directory": "/home/zelion/Documents/cpptest/PassGen/build",
+  "command": "/usr/bin/c++ -DNANA_IGNORE_CONF -I/home/zelion/Documents/cpptest/PassGen/build/_deps/nana-src/include -isystem /usr/include/freetype2 -g -std=c++17 -Wall -fmax-errors=3 -o _deps/nana-build/CMakeFiles/nana.dir/source/detail/platform_spec_posix.cpp.o -c /home/zelion/Documents/cpptest/PassGen/build/_deps/nana-src/source/detail/platform_spec_posix.cpp",
+  "file": "/home/zelion/Documents/cpptest/PassGen/build/_deps/nana-src/source/detail/platform_spec_posix.cpp",
+  "output": "/home/zelion/Documents/cpptest/PassGen/build/_deps/nana-build/CMakeFiles/nana.dir/source/detail/platform_spec_posix.cpp.o"
+},
+{
+  "directory": "/home/zelion/Documents/cpptest/PassGen/build",
+  "command": "/usr/bin/c++ -DNANA_IGNORE_CONF -I/home/zelion/Documents/cpptest/PassGen/build/_deps/nana-src/include -isystem /usr/include/freetype2 -g -std=c++17 -Wall -fmax-errors=3 -o _deps/nana-build/CMakeFiles/nana.dir/source/detail/platform_spec_windows.cpp.o -c /home/zelion/Documents/cpptest/PassGen/build/_deps/nana-src/source/detail/platform_spec_windows.cpp",
+  "file": "/home/zelion/Documents/cpptest/PassGen/build/_deps/nana-src/source/detail/platform_spec_windows.cpp",
+  "output": "/home/zelion/Documents/cpptest/PassGen/build/_deps/nana-build/CMakeFiles/nana.dir/source/detail/platform_spec_windows.cpp.o"
+},
+{
+  "directory": "/home/zelion/Documents/cpptest/PassGen/build",
+  "command": "/usr/bin/c++ -DNANA_IGNORE_CONF -I/home/zelion/Documents/cpptest/PassGen/build/_deps/nana-src/include -isystem /usr/include/freetype2 -g -std=c++17 -Wall -fmax-errors=3 -o _deps/nana-build/CMakeFiles/nana.dir/source/detail/posix/theme.cpp.o -c /home/zelion/Documents/cpptest/PassGen/build/_deps/nana-src/source/detail/posix/theme.cpp",
+  "file": "/home/zelion/Documents/cpptest/PassGen/build/_deps/nana-src/source/detail/posix/theme.cpp",
+  "output": "/home/zelion/Documents/cpptest/PassGen/build/_deps/nana-build/CMakeFiles/nana.dir/source/detail/posix/theme.cpp.o"
+},
+{
+  "directory": "/home/zelion/Documents/cpptest/PassGen/build",
+  "command": "/usr/bin/c++ -DNANA_IGNORE_CONF -I/home/zelion/Documents/cpptest/PassGen/build/_deps/nana-src/include -isystem /usr/include/freetype2 -g -std=c++17 -Wall -fmax-errors=3 -o _deps/nana-build/CMakeFiles/nana.dir/source/filesystem/filesystem.cpp.o -c /home/zelion/Documents/cpptest/PassGen/build/_deps/nana-src/source/filesystem/filesystem.cpp",
+  "file": "/home/zelion/Documents/cpptest/PassGen/build/_deps/nana-src/source/filesystem/filesystem.cpp",
+  "output": "/home/zelion/Documents/cpptest/PassGen/build/_deps/nana-build/CMakeFiles/nana.dir/source/filesystem/filesystem.cpp.o"
+},
+{
+  "directory": "/home/zelion/Documents/cpptest/PassGen/build",
+  "command": "/usr/bin/c++ -DNANA_IGNORE_CONF -I/home/zelion/Documents/cpptest/PassGen/build/_deps/nana-src/include -isystem /usr/include/freetype2 -g -std=c++17 -Wall -fmax-errors=3 -o _deps/nana-build/CMakeFiles/nana.dir/source/gui/animation.cpp.o -c /home/zelion/Documents/cpptest/PassGen/build/_deps/nana-src/source/gui/animation.cpp",
+  "file": "/home/zelion/Documents/cpptest/PassGen/build/_deps/nana-src/source/gui/animation.cpp",
+  "output": "/home/zelion/Documents/cpptest/PassGen/build/_deps/nana-build/CMakeFiles/nana.dir/source/gui/animation.cpp.o"
+},
+{
+  "directory": "/home/zelion/Documents/cpptest/PassGen/build",
+  "command": "/usr/bin/c++ -DNANA_IGNORE_CONF -I/home/zelion/Documents/cpptest/PassGen/build/_deps/nana-src/include -isystem /usr/include/freetype2 -g -std=c++17 -Wall -fmax-errors=3 -o _deps/nana-build/CMakeFiles/nana.dir/source/gui/basis.cpp.o -c /home/zelion/Documents/cpptest/PassGen/build/_deps/nana-src/source/gui/basis.cpp",
+  "file": "/home/zelion/Documents/cpptest/PassGen/build/_deps/nana-src/source/gui/basis.cpp",
+  "output": "/home/zelion/Documents/cpptest/PassGen/build/_deps/nana-build/CMakeFiles/nana.dir/source/gui/basis.cpp.o"
+},
+{
+  "directory": "/home/zelion/Documents/cpptest/PassGen/build",
+  "command": "/usr/bin/c++ -DNANA_IGNORE_CONF -I/home/zelion/Documents/cpptest/PassGen/build/_deps/nana-src/include -isystem /usr/include/freetype2 -g -std=c++17 -Wall -fmax-errors=3 -o _deps/nana-build/CMakeFiles/nana.dir/source/gui/dragdrop.cpp.o -c /home/zelion/Documents/cpptest/PassGen/build/_deps/nana-src/source/gui/dragdrop.cpp",
+  "file": "/home/zelion/Documents/cpptest/PassGen/build/_deps/nana-src/source/gui/dragdrop.cpp",
+  "output": "/home/zelion/Documents/cpptest/PassGen/build/_deps/nana-build/CMakeFiles/nana.dir/source/gui/dragdrop.cpp.o"
+},
+{
+  "directory": "/home/zelion/Documents/cpptest/PassGen/build",
+  "command": "/usr/bin/c++ -DNANA_IGNORE_CONF -I/home/zelion/Documents/cpptest/PassGen/build/_deps/nana-src/include -isystem /usr/include/freetype2 -g -std=c++17 -Wall -fmax-errors=3 -o _deps/nana-build/CMakeFiles/nana.dir/source/gui/dragger.cpp.o -c /home/zelion/Documents/cpptest/PassGen/build/_deps/nana-src/source/gui/dragger.cpp",
+  "file": "/home/zelion/Documents/cpptest/PassGen/build/_deps/nana-src/source/gui/dragger.cpp",
+  "output": "/home/zelion/Documents/cpptest/PassGen/build/_deps/nana-build/CMakeFiles/nana.dir/source/gui/dragger.cpp.o"
+},
+{
+  "directory": "/home/zelion/Documents/cpptest/PassGen/build",
+  "command": "/usr/bin/c++ -DNANA_IGNORE_CONF -I/home/zelion/Documents/cpptest/PassGen/build/_deps/nana-src/include -isystem /usr/include/freetype2 -g -std=c++17 -Wall -fmax-errors=3 -o _deps/nana-build/CMakeFiles/nana.dir/source/gui/drawing.cpp.o -c /home/zelion/Documents/cpptest/PassGen/build/_deps/nana-src/source/gui/drawing.cpp",
+  "file": "/home/zelion/Documents/cpptest/PassGen/build/_deps/nana-src/source/gui/drawing.cpp",
+  "output": "/home/zelion/Documents/cpptest/PassGen/build/_deps/nana-build/CMakeFiles/nana.dir/source/gui/drawing.cpp.o"
+},
+{
+  "directory": "/home/zelion/Documents/cpptest/PassGen/build",
+  "command": "/usr/bin/c++ -DNANA_IGNORE_CONF -I/home/zelion/Documents/cpptest/PassGen/build/_deps/nana-src/include -isystem /usr/include/freetype2 -g -std=c++17 -Wall -fmax-errors=3 -o _deps/nana-build/CMakeFiles/nana.dir/source/gui/effects.cpp.o -c /home/zelion/Documents/cpptest/PassGen/build/_deps/nana-src/source/gui/effects.cpp",
+  "file": "/home/zelion/Documents/cpptest/PassGen/build/_deps/nana-src/source/gui/effects.cpp",
+  "output": "/home/zelion/Documents/cpptest/PassGen/build/_deps/nana-build/CMakeFiles/nana.dir/source/gui/effects.cpp.o"
+},
+{
+  "directory": "/home/zelion/Documents/cpptest/PassGen/build",
+  "command": "/usr/bin/c++ -DNANA_IGNORE_CONF -I/home/zelion/Documents/cpptest/PassGen/build/_deps/nana-src/include -isystem /usr/include/freetype2 -g -std=c++17 -Wall -fmax-errors=3 -o _deps/nana-build/CMakeFiles/nana.dir/source/gui/element.cpp.o -c /home/zelion/Documents/cpptest/PassGen/build/_deps/nana-src/source/gui/element.cpp",
+  "file": "/home/zelion/Documents/cpptest/PassGen/build/_deps/nana-src/source/gui/element.cpp",
+  "output": "/home/zelion/Documents/cpptest/PassGen/build/_deps/nana-build/CMakeFiles/nana.dir/source/gui/element.cpp.o"
+},
+{
+  "directory": "/home/zelion/Documents/cpptest/PassGen/build",
+  "command": "/usr/bin/c++ -DNANA_IGNORE_CONF -I/home/zelion/Documents/cpptest/PassGen/build/_deps/nana-src/include -isystem /usr/include/freetype2 -g -std=c++17 -Wall -fmax-errors=3 -o _deps/nana-build/CMakeFiles/nana.dir/source/gui/filebox.cpp.o -c /home/zelion/Documents/cpptest/PassGen/build/_deps/nana-src/source/gui/filebox.cpp",
+  "file": "/home/zelion/Documents/cpptest/PassGen/build/_deps/nana-src/source/gui/filebox.cpp",
+  "output": "/home/zelion/Documents/cpptest/PassGen/build/_deps/nana-build/CMakeFiles/nana.dir/source/gui/filebox.cpp.o"
+},
+{
+  "directory": "/home/zelion/Documents/cpptest/PassGen/build",
+  "command": "/usr/bin/c++ -DNANA_IGNORE_CONF -I/home/zelion/Documents/cpptest/PassGen/build/_deps/nana-src/include -isystem /usr/include/freetype2 -g -std=c++17 -Wall -fmax-errors=3 -o _deps/nana-build/CMakeFiles/nana.dir/source/gui/layout_utility.cpp.o -c /home/zelion/Documents/cpptest/PassGen/build/_deps/nana-src/source/gui/layout_utility.cpp",
+  "file": "/home/zelion/Documents/cpptest/PassGen/build/_deps/nana-src/source/gui/layout_utility.cpp",
+  "output": "/home/zelion/Documents/cpptest/PassGen/build/_deps/nana-build/CMakeFiles/nana.dir/source/gui/layout_utility.cpp.o"
+},
+{
+  "directory": "/home/zelion/Documents/cpptest/PassGen/build",
+  "command": "/usr/bin/c++ -DNANA_IGNORE_CONF -I/home/zelion/Documents/cpptest/PassGen/build/_deps/nana-src/include -isystem /usr/include/freetype2 -g -std=c++17 -Wall -fmax-errors=3 -o _deps/nana-build/CMakeFiles/nana.dir/source/gui/msgbox.cpp.o -c /home/zelion/Documents/cpptest/PassGen/build/_deps/nana-src/source/gui/msgbox.cpp",
+  "file": "/home/zelion/Documents/cpptest/PassGen/build/_deps/nana-src/source/gui/msgbox.cpp",
+  "output": "/home/zelion/Documents/cpptest/PassGen/build/_deps/nana-build/CMakeFiles/nana.dir/source/gui/msgbox.cpp.o"
+},
+{
+  "directory": "/home/zelion/Documents/cpptest/PassGen/build",
+  "command": "/usr/bin/c++ -DNANA_IGNORE_CONF -I/home/zelion/Documents/cpptest/PassGen/build/_deps/nana-src/include -isystem /usr/include/freetype2 -g -std=c++17 -Wall -fmax-errors=3 -o _deps/nana-build/CMakeFiles/nana.dir/source/gui/notifier.cpp.o -c /home/zelion/Documents/cpptest/PassGen/build/_deps/nana-src/source/gui/notifier.cpp",
+  "file": "/home/zelion/Documents/cpptest/PassGen/build/_deps/nana-src/source/gui/notifier.cpp",
+  "output": "/home/zelion/Documents/cpptest/PassGen/build/_deps/nana-build/CMakeFiles/nana.dir/source/gui/notifier.cpp.o"
+},
+{
+  "directory": "/home/zelion/Documents/cpptest/PassGen/build",
+  "command": "/usr/bin/c++ -DNANA_IGNORE_CONF -I/home/zelion/Documents/cpptest/PassGen/build/_deps/nana-src/include -isystem /usr/include/freetype2 -g -std=c++17 -Wall -fmax-errors=3 -o _deps/nana-build/CMakeFiles/nana.dir/source/gui/place.cpp.o -c /home/zelion/Documents/cpptest/PassGen/build/_deps/nana-src/source/gui/place.cpp",
+  "file": "/home/zelion/Documents/cpptest/PassGen/build/_deps/nana-src/source/gui/place.cpp",
+  "output": "/home/zelion/Documents/cpptest/PassGen/build/_deps/nana-build/CMakeFiles/nana.dir/source/gui/place.cpp.o"
+},
+{
+  "directory": "/home/zelion/Documents/cpptest/PassGen/build",
+  "command": "/usr/bin/c++ -DNANA_IGNORE_CONF -I/home/zelion/Documents/cpptest/PassGen/build/_deps/nana-src/include -isystem /usr/include/freetype2 -g -std=c++17 -Wall -fmax-errors=3 -o _deps/nana-build/CMakeFiles/nana.dir/source/gui/programming_interface.cpp.o -c /home/zelion/Documents/cpptest/PassGen/build/_deps/nana-src/source/gui/programming_interface.cpp",
+  "file": "/home/zelion/Documents/cpptest/PassGen/build/_deps/nana-src/source/gui/programming_interface.cpp",
+  "output": "/home/zelion/Documents/cpptest/PassGen/build/_deps/nana-build/CMakeFiles/nana.dir/source/gui/programming_interface.cpp.o"
+},
+{
+  "directory": "/home/zelion/Documents/cpptest/PassGen/build",
+  "command": "/usr/bin/c++ -DNANA_IGNORE_CONF -I/home/zelion/Documents/cpptest/PassGen/build/_deps/nana-src/include -isystem /usr/include/freetype2 -g -std=c++17 -Wall -fmax-errors=3 -o _deps/nana-build/CMakeFiles/nana.dir/source/gui/screen.cpp.o -c /home/zelion/Documents/cpptest/PassGen/build/_deps/nana-src/source/gui/screen.cpp",
+  "file": "/home/zelion/Documents/cpptest/PassGen/build/_deps/nana-src/source/gui/screen.cpp",
+  "output": "/home/zelion/Documents/cpptest/PassGen/build/_deps/nana-build/CMakeFiles/nana.dir/source/gui/screen.cpp.o"
+},
+{
+  "directory": "/home/zelion/Documents/cpptest/PassGen/build",
+  "command": "/usr/bin/c++ -DNANA_IGNORE_CONF -I/home/zelion/Documents/cpptest/PassGen/build/_deps/nana-src/include -isystem /usr/include/freetype2 -g -std=c++17 -Wall -fmax-errors=3 -o _deps/nana-build/CMakeFiles/nana.dir/source/gui/state_cursor.cpp.o -c /home/zelion/Documents/cpptest/PassGen/build/_deps/nana-src/source/gui/state_cursor.cpp",
+  "file": "/home/zelion/Documents/cpptest/PassGen/build/_deps/nana-src/source/gui/state_cursor.cpp",
+  "output": "/home/zelion/Documents/cpptest/PassGen/build/_deps/nana-build/CMakeFiles/nana.dir/source/gui/state_cursor.cpp.o"
+},
+{
+  "directory": "/home/zelion/Documents/cpptest/PassGen/build",
+  "command": "/usr/bin/c++ -DNANA_IGNORE_CONF -I/home/zelion/Documents/cpptest/PassGen/build/_deps/nana-src/include -isystem /usr/include/freetype2 -g -std=c++17 -Wall -fmax-errors=3 -o _deps/nana-build/CMakeFiles/nana.dir/source/gui/timer.cpp.o -c /home/zelion/Documents/cpptest/PassGen/build/_deps/nana-src/source/gui/timer.cpp",
+  "file": "/home/zelion/Documents/cpptest/PassGen/build/_deps/nana-src/source/gui/timer.cpp",
+  "output": "/home/zelion/Documents/cpptest/PassGen/build/_deps/nana-build/CMakeFiles/nana.dir/source/gui/timer.cpp.o"
+},
+{
+  "directory": "/home/zelion/Documents/cpptest/PassGen/build",
+  "command": "/usr/bin/c++ -DNANA_IGNORE_CONF -I/home/zelion/Documents/cpptest/PassGen/build/_deps/nana-src/include -isystem /usr/include/freetype2 -g -std=c++17 -Wall -fmax-errors=3 -o _deps/nana-build/CMakeFiles/nana.dir/source/gui/tooltip.cpp.o -c /home/zelion/Documents/cpptest/PassGen/build/_deps/nana-src/source/gui/tooltip.cpp",
+  "file": "/home/zelion/Documents/cpptest/PassGen/build/_deps/nana-src/source/gui/tooltip.cpp",
+  "output": "/home/zelion/Documents/cpptest/PassGen/build/_deps/nana-build/CMakeFiles/nana.dir/source/gui/tooltip.cpp.o"
+},
+{
+  "directory": "/home/zelion/Documents/cpptest/PassGen/build",
+  "command": "/usr/bin/c++ -DNANA_IGNORE_CONF -I/home/zelion/Documents/cpptest/PassGen/build/_deps/nana-src/include -isystem /usr/include/freetype2 -g -std=c++17 -Wall -fmax-errors=3 -o _deps/nana-build/CMakeFiles/nana.dir/source/gui/wvl.cpp.o -c /home/zelion/Documents/cpptest/PassGen/build/_deps/nana-src/source/gui/wvl.cpp",
+  "file": "/home/zelion/Documents/cpptest/PassGen/build/_deps/nana-src/source/gui/wvl.cpp",
+  "output": "/home/zelion/Documents/cpptest/PassGen/build/_deps/nana-build/CMakeFiles/nana.dir/source/gui/wvl.cpp.o"
+},
+{
+  "directory": "/home/zelion/Documents/cpptest/PassGen/build",
+  "command": "/usr/bin/c++ -DNANA_IGNORE_CONF -I/home/zelion/Documents/cpptest/PassGen/build/_deps/nana-src/include -isystem /usr/include/freetype2 -g -std=c++17 -Wall -fmax-errors=3 -o _deps/nana-build/CMakeFiles/nana.dir/source/gui/detail/basic_window.cpp.o -c /home/zelion/Documents/cpptest/PassGen/build/_deps/nana-src/source/gui/detail/basic_window.cpp",
+  "file": "/home/zelion/Documents/cpptest/PassGen/build/_deps/nana-src/source/gui/detail/basic_window.cpp",
+  "output": "/home/zelion/Documents/cpptest/PassGen/build/_deps/nana-build/CMakeFiles/nana.dir/source/gui/detail/basic_window.cpp.o"
+},
+{
+  "directory": "/home/zelion/Documents/cpptest/PassGen/build",
+  "command": "/usr/bin/c++ -DNANA_IGNORE_CONF -I/home/zelion/Documents/cpptest/PassGen/build/_deps/nana-src/include -isystem /usr/include/freetype2 -g -std=c++17 -Wall -fmax-errors=3 -o _deps/nana-build/CMakeFiles/nana.dir/source/gui/detail/bedrock_pi.cpp.o -c /home/zelion/Documents/cpptest/PassGen/build/_deps/nana-src/source/gui/detail/bedrock_pi.cpp",
+  "file": "/home/zelion/Documents/cpptest/PassGen/build/_deps/nana-src/source/gui/detail/bedrock_pi.cpp",
+  "output": "/home/zelion/Documents/cpptest/PassGen/build/_deps/nana-build/CMakeFiles/nana.dir/source/gui/detail/bedrock_pi.cpp.o"
+},
+{
+  "directory": "/home/zelion/Documents/cpptest/PassGen/build",
+  "command": "/usr/bin/c++ -DNANA_IGNORE_CONF -I/home/zelion/Documents/cpptest/PassGen/build/_deps/nana-src/include -isystem /usr/include/freetype2 -g -std=c++17 -Wall -fmax-errors=3 -o _deps/nana-build/CMakeFiles/nana.dir/source/gui/detail/bedrock_posix.cpp.o -c /home/zelion/Documents/cpptest/PassGen/build/_deps/nana-src/source/gui/detail/bedrock_posix.cpp",
+  "file": "/home/zelion/Documents/cpptest/PassGen/build/_deps/nana-src/source/gui/detail/bedrock_posix.cpp",
+  "output": "/home/zelion/Documents/cpptest/PassGen/build/_deps/nana-build/CMakeFiles/nana.dir/source/gui/detail/bedrock_posix.cpp.o"
+},
+{
+  "directory": "/home/zelion/Documents/cpptest/PassGen/build",
+  "command": "/usr/bin/c++ -DNANA_IGNORE_CONF -I/home/zelion/Documents/cpptest/PassGen/build/_deps/nana-src/include -isystem /usr/include/freetype2 -g -std=c++17 -Wall -fmax-errors=3 -o _deps/nana-build/CMakeFiles/nana.dir/source/gui/detail/bedrock_windows.cpp.o -c /home/zelion/Documents/cpptest/PassGen/build/_deps/nana-src/source/gui/detail/bedrock_windows.cpp",
+  "file": "/home/zelion/Documents/cpptest/PassGen/build/_deps/nana-src/source/gui/detail/bedrock_windows.cpp",
+  "output": "/home/zelion/Documents/cpptest/PassGen/build/_deps/nana-build/CMakeFiles/nana.dir/source/gui/detail/bedrock_windows.cpp.o"
+},
+{
+  "directory": "/home/zelion/Documents/cpptest/PassGen/build",
+  "command": "/usr/bin/c++ -DNANA_IGNORE_CONF -I/home/zelion/Documents/cpptest/PassGen/build/_deps/nana-src/include -isystem /usr/include/freetype2 -g -std=c++17 -Wall -fmax-errors=3 -o _deps/nana-build/CMakeFiles/nana.dir/source/gui/detail/color_schemes.cpp.o -c /home/zelion/Documents/cpptest/PassGen/build/_deps/nana-src/source/gui/detail/color_schemes.cpp",
+  "file": "/home/zelion/Documents/cpptest/PassGen/build/_deps/nana-src/source/gui/detail/color_schemes.cpp",
+  "output": "/home/zelion/Documents/cpptest/PassGen/build/_deps/nana-build/CMakeFiles/nana.dir/source/gui/detail/color_schemes.cpp.o"
+},
+{
+  "directory": "/home/zelion/Documents/cpptest/PassGen/build",
+  "command": "/usr/bin/c++ -DNANA_IGNORE_CONF -I/home/zelion/Documents/cpptest/PassGen/build/_deps/nana-src/include -isystem /usr/include/freetype2 -g -std=c++17 -Wall -fmax-errors=3 -o _deps/nana-build/CMakeFiles/nana.dir/source/gui/detail/drawer.cpp.o -c /home/zelion/Documents/cpptest/PassGen/build/_deps/nana-src/source/gui/detail/drawer.cpp",
+  "file": "/home/zelion/Documents/cpptest/PassGen/build/_deps/nana-src/source/gui/detail/drawer.cpp",
+  "output": "/home/zelion/Documents/cpptest/PassGen/build/_deps/nana-build/CMakeFiles/nana.dir/source/gui/detail/drawer.cpp.o"
+},
+{
+  "directory": "/home/zelion/Documents/cpptest/PassGen/build",
+  "command": "/usr/bin/c++ -DNANA_IGNORE_CONF -I/home/zelion/Documents/cpptest/PassGen/build/_deps/nana-src/include -isystem /usr/include/freetype2 -g -std=c++17 -Wall -fmax-errors=3 -o _deps/nana-build/CMakeFiles/nana.dir/source/gui/detail/element_store.cpp.o -c /home/zelion/Documents/cpptest/PassGen/build/_deps/nana-src/source/gui/detail/element_store.cpp",
+  "file": "/home/zelion/Documents/cpptest/PassGen/build/_deps/nana-src/source/gui/detail/element_store.cpp",
+  "output": "/home/zelion/Documents/cpptest/PassGen/build/_deps/nana-build/CMakeFiles/nana.dir/source/gui/detail/element_store.cpp.o"
+},
+{
+  "directory": "/home/zelion/Documents/cpptest/PassGen/build",
+  "command": "/usr/bin/c++ -DNANA_IGNORE_CONF -I/home/zelion/Documents/cpptest/PassGen/build/_deps/nana-src/include -isystem /usr/include/freetype2 -g -std=c++17 -Wall -fmax-errors=3 -o _deps/nana-build/CMakeFiles/nana.dir/source/gui/detail/events_operation.cpp.o -c /home/zelion/Documents/cpptest/PassGen/build/_deps/nana-src/source/gui/detail/events_operation.cpp",
+  "file": "/home/zelion/Documents/cpptest/PassGen/build/_deps/nana-src/source/gui/detail/events_operation.cpp",
+  "output": "/home/zelion/Documents/cpptest/PassGen/build/_deps/nana-build/CMakeFiles/nana.dir/source/gui/detail/events_operation.cpp.o"
+},
+{
+  "directory": "/home/zelion/Documents/cpptest/PassGen/build",
+  "command": "/usr/bin/c++ -DNANA_IGNORE_CONF -I/home/zelion/Documents/cpptest/PassGen/build/_deps/nana-src/include -isystem /usr/include/freetype2 -g -std=c++17 -Wall -fmax-errors=3 -o _deps/nana-build/CMakeFiles/nana.dir/source/gui/detail/native_window_interface.cpp.o -c /home/zelion/Documents/cpptest/PassGen/build/_deps/nana-src/source/gui/detail/native_window_interface.cpp",
+  "file": "/home/zelion/Documents/cpptest/PassGen/build/_deps/nana-src/source/gui/detail/native_window_interface.cpp",
+  "output": "/home/zelion/Documents/cpptest/PassGen/build/_deps/nana-build/CMakeFiles/nana.dir/source/gui/detail/native_window_interface.cpp.o"
+},
+{
+  "directory": "/home/zelion/Documents/cpptest/PassGen/build",
+  "command": "/usr/bin/c++ -DNANA_IGNORE_CONF -I/home/zelion/Documents/cpptest/PassGen/build/_deps/nana-src/include -isystem /usr/include/freetype2 -g -std=c++17 -Wall -fmax-errors=3 -o _deps/nana-build/CMakeFiles/nana.dir/source/gui/detail/window_layout.cpp.o -c /home/zelion/Documents/cpptest/PassGen/build/_deps/nana-src/source/gui/detail/window_layout.cpp",
+  "file": "/home/zelion/Documents/cpptest/PassGen/build/_deps/nana-src/source/gui/detail/window_layout.cpp",
+  "output": "/home/zelion/Documents/cpptest/PassGen/build/_deps/nana-build/CMakeFiles/nana.dir/source/gui/detail/window_layout.cpp.o"
+},
+{
+  "directory": "/home/zelion/Documents/cpptest/PassGen/build",
+  "command": "/usr/bin/c++ -DNANA_IGNORE_CONF -I/home/zelion/Documents/cpptest/PassGen/build/_deps/nana-src/include -isystem /usr/include/freetype2 -g -std=c++17 -Wall -fmax-errors=3 -o _deps/nana-build/CMakeFiles/nana.dir/source/gui/detail/window_manager.cpp.o -c /home/zelion/Documents/cpptest/PassGen/build/_deps/nana-src/source/gui/detail/window_manager.cpp",
+  "file": "/home/zelion/Documents/cpptest/PassGen/build/_deps/nana-src/source/gui/detail/window_manager.cpp",
+  "output": "/home/zelion/Documents/cpptest/PassGen/build/_deps/nana-build/CMakeFiles/nana.dir/source/gui/detail/window_manager.cpp.o"
+},
+{
+  "directory": "/home/zelion/Documents/cpptest/PassGen/build",
+  "command": "/usr/bin/c++ -DNANA_IGNORE_CONF -I/home/zelion/Documents/cpptest/PassGen/build/_deps/nana-src/include -isystem /usr/include/freetype2 -g -std=c++17 -Wall -fmax-errors=3 -o _deps/nana-build/CMakeFiles/nana.dir/source/gui/widgets/button.cpp.o -c /home/zelion/Documents/cpptest/PassGen/build/_deps/nana-src/source/gui/widgets/button.cpp",
+  "file": "/home/zelion/Documents/cpptest/PassGen/build/_deps/nana-src/source/gui/widgets/button.cpp",
+  "output": "/home/zelion/Documents/cpptest/PassGen/build/_deps/nana-build/CMakeFiles/nana.dir/source/gui/widgets/button.cpp.o"
+},
+{
+  "directory": "/home/zelion/Documents/cpptest/PassGen/build",
+  "command": "/usr/bin/c++ -DNANA_IGNORE_CONF -I/home/zelion/Documents/cpptest/PassGen/build/_deps/nana-src/include -isystem /usr/include/freetype2 -g -std=c++17 -Wall -fmax-errors=3 -o _deps/nana-build/CMakeFiles/nana.dir/source/gui/widgets/categorize.cpp.o -c /home/zelion/Documents/cpptest/PassGen/build/_deps/nana-src/source/gui/widgets/categorize.cpp",
+  "file": "/home/zelion/Documents/cpptest/PassGen/build/_deps/nana-src/source/gui/widgets/categorize.cpp",
+  "output": "/home/zelion/Documents/cpptest/PassGen/build/_deps/nana-build/CMakeFiles/nana.dir/source/gui/widgets/categorize.cpp.o"
+},
+{
+  "directory": "/home/zelion/Documents/cpptest/PassGen/build",
+  "command": "/usr/bin/c++ -DNANA_IGNORE_CONF -I/home/zelion/Documents/cpptest/PassGen/build/_deps/nana-src/include -isystem /usr/include/freetype2 -g -std=c++17 -Wall -fmax-errors=3 -o _deps/nana-build/CMakeFiles/nana.dir/source/gui/widgets/checkbox.cpp.o -c /home/zelion/Documents/cpptest/PassGen/build/_deps/nana-src/source/gui/widgets/checkbox.cpp",
+  "file": "/home/zelion/Documents/cpptest/PassGen/build/_deps/nana-src/source/gui/widgets/checkbox.cpp",
+  "output": "/home/zelion/Documents/cpptest/PassGen/build/_deps/nana-build/CMakeFiles/nana.dir/source/gui/widgets/checkbox.cpp.o"
+},
+{
+  "directory": "/home/zelion/Documents/cpptest/PassGen/build",
+  "command": "/usr/bin/c++ -DNANA_IGNORE_CONF -I/home/zelion/Documents/cpptest/PassGen/build/_deps/nana-src/include -isystem /usr/include/freetype2 -g -std=c++17 -Wall -fmax-errors=3 -o _deps/nana-build/CMakeFiles/nana.dir/source/gui/widgets/combox.cpp.o -c /home/zelion/Documents/cpptest/PassGen/build/_deps/nana-src/source/gui/widgets/combox.cpp",
+  "file": "/home/zelion/Documents/cpptest/PassGen/build/_deps/nana-src/source/gui/widgets/combox.cpp",
+  "output": "/home/zelion/Documents/cpptest/PassGen/build/_deps/nana-build/CMakeFiles/nana.dir/source/gui/widgets/combox.cpp.o"
+},
+{
+  "directory": "/home/zelion/Documents/cpptest/PassGen/build",
+  "command": "/usr/bin/c++ -DNANA_IGNORE_CONF -I/home/zelion/Documents/cpptest/PassGen/build/_deps/nana-src/include -isystem /usr/include/freetype2 -g -std=c++17 -Wall -fmax-errors=3 -o _deps/nana-build/CMakeFiles/nana.dir/source/gui/widgets/date_chooser.cpp.o -c /home/zelion/Documents/cpptest/PassGen/build/_deps/nana-src/source/gui/widgets/date_chooser.cpp",
+  "file": "/home/zelion/Documents/cpptest/PassGen/build/_deps/nana-src/source/gui/widgets/date_chooser.cpp",
+  "output": "/home/zelion/Documents/cpptest/PassGen/build/_deps/nana-build/CMakeFiles/nana.dir/source/gui/widgets/date_chooser.cpp.o"
+},
+{
+  "directory": "/home/zelion/Documents/cpptest/PassGen/build",
+  "command": "/usr/bin/c++ -DNANA_IGNORE_CONF -I/home/zelion/Documents/cpptest/PassGen/build/_deps/nana-src/include -isystem /usr/include/freetype2 -g -std=c++17 -Wall -fmax-errors=3 -o _deps/nana-build/CMakeFiles/nana.dir/source/gui/widgets/float_listbox.cpp.o -c /home/zelion/Documents/cpptest/PassGen/build/_deps/nana-src/source/gui/widgets/float_listbox.cpp",
+  "file": "/home/zelion/Documents/cpptest/PassGen/build/_deps/nana-src/source/gui/widgets/float_listbox.cpp",
+  "output": "/home/zelion/Documents/cpptest/PassGen/build/_deps/nana-build/CMakeFiles/nana.dir/source/gui/widgets/float_listbox.cpp.o"
+},
+{
+  "directory": "/home/zelion/Documents/cpptest/PassGen/build",
+  "command": "/usr/bin/c++ -DNANA_IGNORE_CONF -I/home/zelion/Documents/cpptest/PassGen/build/_deps/nana-src/include -isystem /usr/include/freetype2 -g -std=c++17 -Wall -fmax-errors=3 -o _deps/nana-build/CMakeFiles/nana.dir/source/gui/widgets/form.cpp.o -c /home/zelion/Documents/cpptest/PassGen/build/_deps/nana-src/source/gui/widgets/form.cpp",
+  "file": "/home/zelion/Documents/cpptest/PassGen/build/_deps/nana-src/source/gui/widgets/form.cpp",
+  "output": "/home/zelion/Documents/cpptest/PassGen/build/_deps/nana-build/CMakeFiles/nana.dir/source/gui/widgets/form.cpp.o"
+},
+{
+  "directory": "/home/zelion/Documents/cpptest/PassGen/build",
+  "command": "/usr/bin/c++ -DNANA_IGNORE_CONF -I/home/zelion/Documents/cpptest/PassGen/build/_deps/nana-src/include -isystem /usr/include/freetype2 -g -std=c++17 -Wall -fmax-errors=3 -o _deps/nana-build/CMakeFiles/nana.dir/source/gui/widgets/group.cpp.o -c /home/zelion/Documents/cpptest/PassGen/build/_deps/nana-src/source/gui/widgets/group.cpp",
+  "file": "/home/zelion/Documents/cpptest/PassGen/build/_deps/nana-src/source/gui/widgets/group.cpp",
+  "output": "/home/zelion/Documents/cpptest/PassGen/build/_deps/nana-build/CMakeFiles/nana.dir/source/gui/widgets/group.cpp.o"
+},
+{
+  "directory": "/home/zelion/Documents/cpptest/PassGen/build",
+  "command": "/usr/bin/c++ -DNANA_IGNORE_CONF -I/home/zelion/Documents/cpptest/PassGen/build/_deps/nana-src/include -isystem /usr/include/freetype2 -g -std=c++17 -Wall -fmax-errors=3 -o _deps/nana-build/CMakeFiles/nana.dir/source/gui/widgets/label.cpp.o -c /home/zelion/Documents/cpptest/PassGen/build/_deps/nana-src/source/gui/widgets/label.cpp",
+  "file": "/home/zelion/Documents/cpptest/PassGen/build/_deps/nana-src/source/gui/widgets/label.cpp",
+  "output": "/home/zelion/Documents/cpptest/PassGen/build/_deps/nana-build/CMakeFiles/nana.dir/source/gui/widgets/label.cpp.o"
+},
+{
+  "directory": "/home/zelion/Documents/cpptest/PassGen/build",
+  "command": "/usr/bin/c++ -DNANA_IGNORE_CONF -I/home/zelion/Documents/cpptest/PassGen/build/_deps/nana-src/include -isystem /usr/include/freetype2 -g -std=c++17 -Wall -fmax-errors=3 -o _deps/nana-build/CMakeFiles/nana.dir/source/gui/widgets/listbox.cpp.o -c /home/zelion/Documents/cpptest/PassGen/build/_deps/nana-src/source/gui/widgets/listbox.cpp",
+  "file": "/home/zelion/Documents/cpptest/PassGen/build/_deps/nana-src/source/gui/widgets/listbox.cpp",
+  "output": "/home/zelion/Documents/cpptest/PassGen/build/_deps/nana-build/CMakeFiles/nana.dir/source/gui/widgets/listbox.cpp.o"
+},
+{
+  "directory": "/home/zelion/Documents/cpptest/PassGen/build",
+  "command": "/usr/bin/c++ -DNANA_IGNORE_CONF -I/home/zelion/Documents/cpptest/PassGen/build/_deps/nana-src/include -isystem /usr/include/freetype2 -g -std=c++17 -Wall -fmax-errors=3 -o _deps/nana-build/CMakeFiles/nana.dir/source/gui/widgets/menu.cpp.o -c /home/zelion/Documents/cpptest/PassGen/build/_deps/nana-src/source/gui/widgets/menu.cpp",
+  "file": "/home/zelion/Documents/cpptest/PassGen/build/_deps/nana-src/source/gui/widgets/menu.cpp",
+  "output": "/home/zelion/Documents/cpptest/PassGen/build/_deps/nana-build/CMakeFiles/nana.dir/source/gui/widgets/menu.cpp.o"
+},
+{
+  "directory": "/home/zelion/Documents/cpptest/PassGen/build",
+  "command": "/usr/bin/c++ -DNANA_IGNORE_CONF -I/home/zelion/Documents/cpptest/PassGen/build/_deps/nana-src/include -isystem /usr/include/freetype2 -g -std=c++17 -Wall -fmax-errors=3 -o _deps/nana-build/CMakeFiles/nana.dir/source/gui/widgets/menubar.cpp.o -c /home/zelion/Documents/cpptest/PassGen/build/_deps/nana-src/source/gui/widgets/menubar.cpp",
+  "file": "/home/zelion/Documents/cpptest/PassGen/build/_deps/nana-src/source/gui/widgets/menubar.cpp",
+  "output": "/home/zelion/Documents/cpptest/PassGen/build/_deps/nana-build/CMakeFiles/nana.dir/source/gui/widgets/menubar.cpp.o"
+},
+{
+  "directory": "/home/zelion/Documents/cpptest/PassGen/build",
+  "command": "/usr/bin/c++ -DNANA_IGNORE_CONF -I/home/zelion/Documents/cpptest/PassGen/build/_deps/nana-src/include -isystem /usr/include/freetype2 -g -std=c++17 -Wall -fmax-errors=3 -o _deps/nana-build/CMakeFiles/nana.dir/source/gui/widgets/panel.cpp.o -c /home/zelion/Documents/cpptest/PassGen/build/_deps/nana-src/source/gui/widgets/panel.cpp",
+  "file": "/home/zelion/Documents/cpptest/PassGen/build/_deps/nana-src/source/gui/widgets/panel.cpp",
+  "output": "/home/zelion/Documents/cpptest/PassGen/build/_deps/nana-build/CMakeFiles/nana.dir/source/gui/widgets/panel.cpp.o"
+},
+{
+  "directory": "/home/zelion/Documents/cpptest/PassGen/build",
+  "command": "/usr/bin/c++ -DNANA_IGNORE_CONF -I/home/zelion/Documents/cpptest/PassGen/build/_deps/nana-src/include -isystem /usr/include/freetype2 -g -std=c++17 -Wall -fmax-errors=3 -o _deps/nana-build/CMakeFiles/nana.dir/source/gui/widgets/picture.cpp.o -c /home/zelion/Documents/cpptest/PassGen/build/_deps/nana-src/source/gui/widgets/picture.cpp",
+  "file": "/home/zelion/Documents/cpptest/PassGen/build/_deps/nana-src/source/gui/widgets/picture.cpp",
+  "output": "/home/zelion/Documents/cpptest/PassGen/build/_deps/nana-build/CMakeFiles/nana.dir/source/gui/widgets/picture.cpp.o"
+},
+{
+  "directory": "/home/zelion/Documents/cpptest/PassGen/build",
+  "command": "/usr/bin/c++ -DNANA_IGNORE_CONF -I/home/zelion/Documents/cpptest/PassGen/build/_deps/nana-src/include -isystem /usr/include/freetype2 -g -std=c++17 -Wall -fmax-errors=3 -o _deps/nana-build/CMakeFiles/nana.dir/source/gui/widgets/progress.cpp.o -c /home/zelion/Documents/cpptest/PassGen/build/_deps/nana-src/source/gui/widgets/progress.cpp",
+  "file": "/home/zelion/Documents/cpptest/PassGen/build/_deps/nana-src/source/gui/widgets/progress.cpp",
+  "output": "/home/zelion/Documents/cpptest/PassGen/build/_deps/nana-build/CMakeFiles/nana.dir/source/gui/widgets/progress.cpp.o"
+},
+{
+  "directory": "/home/zelion/Documents/cpptest/PassGen/build",
+  "command": "/usr/bin/c++ -DNANA_IGNORE_CONF -I/home/zelion/Documents/cpptest/PassGen/build/_deps/nana-src/include -isystem /usr/include/freetype2 -g -std=c++17 -Wall -fmax-errors=3 -o _deps/nana-build/CMakeFiles/nana.dir/source/gui/widgets/scroll.cpp.o -c /home/zelion/Documents/cpptest/PassGen/build/_deps/nana-src/source/gui/widgets/scroll.cpp",
+  "file": "/home/zelion/Documents/cpptest/PassGen/build/_deps/nana-src/source/gui/widgets/scroll.cpp",
+  "output": "/home/zelion/Documents/cpptest/PassGen/build/_deps/nana-build/CMakeFiles/nana.dir/source/gui/widgets/scroll.cpp.o"
+},
+{
+  "directory": "/home/zelion/Documents/cpptest/PassGen/build",
+  "command": "/usr/bin/c++ -DNANA_IGNORE_CONF -I/home/zelion/Documents/cpptest/PassGen/build/_deps/nana-src/include -isystem /usr/include/freetype2 -g -std=c++17 -Wall -fmax-errors=3 -o _deps/nana-build/CMakeFiles/nana.dir/source/gui/widgets/slider.cpp.o -c /home/zelion/Documents/cpptest/PassGen/build/_deps/nana-src/source/gui/widgets/slider.cpp",
+  "file": "/home/zelion/Documents/cpptest/PassGen/build/_deps/nana-src/source/gui/widgets/slider.cpp",
+  "output": "/home/zelion/Documents/cpptest/PassGen/build/_deps/nana-build/CMakeFiles/nana.dir/source/gui/widgets/slider.cpp.o"
+},
+{
+  "directory": "/home/zelion/Documents/cpptest/PassGen/build",
+  "command": "/usr/bin/c++ -DNANA_IGNORE_CONF -I/home/zelion/Documents/cpptest/PassGen/build/_deps/nana-src/include -isystem /usr/include/freetype2 -g -std=c++17 -Wall -fmax-errors=3 -o _deps/nana-build/CMakeFiles/nana.dir/source/gui/widgets/spinbox.cpp.o -c /home/zelion/Documents/cpptest/PassGen/build/_deps/nana-src/source/gui/widgets/spinbox.cpp",
+  "file": "/home/zelion/Documents/cpptest/PassGen/build/_deps/nana-src/source/gui/widgets/spinbox.cpp",
+  "output": "/home/zelion/Documents/cpptest/PassGen/build/_deps/nana-build/CMakeFiles/nana.dir/source/gui/widgets/spinbox.cpp.o"
+},
+{
+  "directory": "/home/zelion/Documents/cpptest/PassGen/build",
+  "command": "/usr/bin/c++ -DNANA_IGNORE_CONF -I/home/zelion/Documents/cpptest/PassGen/build/_deps/nana-src/include -isystem /usr/include/freetype2 -g -std=c++17 -Wall -fmax-errors=3 -o _deps/nana-build/CMakeFiles/nana.dir/source/gui/widgets/tabbar.cpp.o -c /home/zelion/Documents/cpptest/PassGen/build/_deps/nana-src/source/gui/widgets/tabbar.cpp",
+  "file": "/home/zelion/Documents/cpptest/PassGen/build/_deps/nana-src/source/gui/widgets/tabbar.cpp",
+  "output": "/home/zelion/Documents/cpptest/PassGen/build/_deps/nana-build/CMakeFiles/nana.dir/source/gui/widgets/tabbar.cpp.o"
+},
+{
+  "directory": "/home/zelion/Documents/cpptest/PassGen/build",
+  "command": "/usr/bin/c++ -DNANA_IGNORE_CONF -I/home/zelion/Documents/cpptest/PassGen/build/_deps/nana-src/include -isystem /usr/include/freetype2 -g -std=c++17 -Wall -fmax-errors=3 -o _deps/nana-build/CMakeFiles/nana.dir/source/gui/widgets/textbox.cpp.o -c /home/zelion/Documents/cpptest/PassGen/build/_deps/nana-src/source/gui/widgets/textbox.cpp",
+  "file": "/home/zelion/Documents/cpptest/PassGen/build/_deps/nana-src/source/gui/widgets/textbox.cpp",
+  "output": "/home/zelion/Documents/cpptest/PassGen/build/_deps/nana-build/CMakeFiles/nana.dir/source/gui/widgets/textbox.cpp.o"
+},
+{
+  "directory": "/home/zelion/Documents/cpptest/PassGen/build",
+  "command": "/usr/bin/c++ -DNANA_IGNORE_CONF -I/home/zelion/Documents/cpptest/PassGen/build/_deps/nana-src/include -isystem /usr/include/freetype2 -g -std=c++17 -Wall -fmax-errors=3 -o _deps/nana-build/CMakeFiles/nana.dir/source/gui/widgets/toolbar.cpp.o -c /home/zelion/Documents/cpptest/PassGen/build/_deps/nana-src/source/gui/widgets/toolbar.cpp",
+  "file": "/home/zelion/Documents/cpptest/PassGen/build/_deps/nana-src/source/gui/widgets/toolbar.cpp",
+  "output": "/home/zelion/Documents/cpptest/PassGen/build/_deps/nana-build/CMakeFiles/nana.dir/source/gui/widgets/toolbar.cpp.o"
+},
+{
+  "directory": "/home/zelion/Documents/cpptest/PassGen/build",
+  "command": "/usr/bin/c++ -DNANA_IGNORE_CONF -I/home/zelion/Documents/cpptest/PassGen/build/_deps/nana-src/include -isystem /usr/include/freetype2 -g -std=c++17 -Wall -fmax-errors=3 -o _deps/nana-build/CMakeFiles/nana.dir/source/gui/widgets/treebox.cpp.o -c /home/zelion/Documents/cpptest/PassGen/build/_deps/nana-src/source/gui/widgets/treebox.cpp",
+  "file": "/home/zelion/Documents/cpptest/PassGen/build/_deps/nana-src/source/gui/widgets/treebox.cpp",
+  "output": "/home/zelion/Documents/cpptest/PassGen/build/_deps/nana-build/CMakeFiles/nana.dir/source/gui/widgets/treebox.cpp.o"
+},
+{
+  "directory": "/home/zelion/Documents/cpptest/PassGen/build",
+  "command": "/usr/bin/c++ -DNANA_IGNORE_CONF -I/home/zelion/Documents/cpptest/PassGen/build/_deps/nana-src/include -isystem /usr/include/freetype2 -g -std=c++17 -Wall -fmax-errors=3 -o _deps/nana-build/CMakeFiles/nana.dir/source/gui/widgets/widget.cpp.o -c /home/zelion/Documents/cpptest/PassGen/build/_deps/nana-src/source/gui/widgets/widget.cpp",
+  "file": "/home/zelion/Documents/cpptest/PassGen/build/_deps/nana-src/source/gui/widgets/widget.cpp",
+  "output": "/home/zelion/Documents/cpptest/PassGen/build/_deps/nana-build/CMakeFiles/nana.dir/source/gui/widgets/widget.cpp.o"
+},
+{
+  "directory": "/home/zelion/Documents/cpptest/PassGen/build",
+  "command": "/usr/bin/c++ -DNANA_IGNORE_CONF -I/home/zelion/Documents/cpptest/PassGen/build/_deps/nana-src/include -isystem /usr/include/freetype2 -g -std=c++17 -Wall -fmax-errors=3 -o _deps/nana-build/CMakeFiles/nana.dir/source/gui/widgets/skeletons/content_view.cpp.o -c /home/zelion/Documents/cpptest/PassGen/build/_deps/nana-src/source/gui/widgets/skeletons/content_view.cpp",
+  "file": "/home/zelion/Documents/cpptest/PassGen/build/_deps/nana-src/source/gui/widgets/skeletons/content_view.cpp",
+  "output": "/home/zelion/Documents/cpptest/PassGen/build/_deps/nana-build/CMakeFiles/nana.dir/source/gui/widgets/skeletons/content_view.cpp.o"
+},
+{
+  "directory": "/home/zelion/Documents/cpptest/PassGen/build",
+  "command": "/usr/bin/c++ -DNANA_IGNORE_CONF -I/home/zelion/Documents/cpptest/PassGen/build/_deps/nana-src/include -isystem /usr/include/freetype2 -g -std=c++17 -Wall -fmax-errors=3 -o _deps/nana-build/CMakeFiles/nana.dir/source/gui/widgets/skeletons/text_editor.cpp.o -c /home/zelion/Documents/cpptest/PassGen/build/_deps/nana-src/source/gui/widgets/skeletons/text_editor.cpp",
+  "file": "/home/zelion/Documents/cpptest/PassGen/build/_deps/nana-src/source/gui/widgets/skeletons/text_editor.cpp",
+  "output": "/home/zelion/Documents/cpptest/PassGen/build/_deps/nana-build/CMakeFiles/nana.dir/source/gui/widgets/skeletons/text_editor.cpp.o"
+},
+{
+  "directory": "/home/zelion/Documents/cpptest/PassGen/build",
+  "command": "/usr/bin/c++ -DNANA_IGNORE_CONF -I/home/zelion/Documents/cpptest/PassGen/build/_deps/nana-src/include -isystem /usr/include/freetype2 -g -std=c++17 -Wall -fmax-errors=3 -o _deps/nana-build/CMakeFiles/nana.dir/source/paint/graphics.cpp.o -c /home/zelion/Documents/cpptest/PassGen/build/_deps/nana-src/source/paint/graphics.cpp",
+  "file": "/home/zelion/Documents/cpptest/PassGen/build/_deps/nana-src/source/paint/graphics.cpp",
+  "output": "/home/zelion/Documents/cpptest/PassGen/build/_deps/nana-build/CMakeFiles/nana.dir/source/paint/graphics.cpp.o"
+},
+{
+  "directory": "/home/zelion/Documents/cpptest/PassGen/build",
+  "command": "/usr/bin/c++ -DNANA_IGNORE_CONF -I/home/zelion/Documents/cpptest/PassGen/build/_deps/nana-src/include -isystem /usr/include/freetype2 -g -std=c++17 -Wall -fmax-errors=3 -o _deps/nana-build/CMakeFiles/nana.dir/source/paint/image.cpp.o -c /home/zelion/Documents/cpptest/PassGen/build/_deps/nana-src/source/paint/image.cpp",
+  "file": "/home/zelion/Documents/cpptest/PassGen/build/_deps/nana-src/source/paint/image.cpp",
+  "output": "/home/zelion/Documents/cpptest/PassGen/build/_deps/nana-build/CMakeFiles/nana.dir/source/paint/image.cpp.o"
+},
+{
+  "directory": "/home/zelion/Documents/cpptest/PassGen/build",
+  "command": "/usr/bin/c++ -DNANA_IGNORE_CONF -I/home/zelion/Documents/cpptest/PassGen/build/_deps/nana-src/include -isystem /usr/include/freetype2 -g -std=c++17 -Wall -fmax-errors=3 -o _deps/nana-build/CMakeFiles/nana.dir/source/paint/image_process_selector.cpp.o -c /home/zelion/Documents/cpptest/PassGen/build/_deps/nana-src/source/paint/image_process_selector.cpp",
+  "file": "/home/zelion/Documents/cpptest/PassGen/build/_deps/nana-src/source/paint/image_process_selector.cpp",
+  "output": "/home/zelion/Documents/cpptest/PassGen/build/_deps/nana-build/CMakeFiles/nana.dir/source/paint/image_process_selector.cpp.o"
+},
+{
+  "directory": "/home/zelion/Documents/cpptest/PassGen/build",
+  "command": "/usr/bin/c++ -DNANA_IGNORE_CONF -I/home/zelion/Documents/cpptest/PassGen/build/_deps/nana-src/include -isystem /usr/include/freetype2 -g -std=c++17 -Wall -fmax-errors=3 -o _deps/nana-build/CMakeFiles/nana.dir/source/paint/pixel_buffer.cpp.o -c /home/zelion/Documents/cpptest/PassGen/build/_deps/nana-src/source/paint/pixel_buffer.cpp",
+  "file": "/home/zelion/Documents/cpptest/PassGen/build/_deps/nana-src/source/paint/pixel_buffer.cpp",
+  "output": "/home/zelion/Documents/cpptest/PassGen/build/_deps/nana-build/CMakeFiles/nana.dir/source/paint/pixel_buffer.cpp.o"
+},
+{
+  "directory": "/home/zelion/Documents/cpptest/PassGen/build",
+  "command": "/usr/bin/c++ -DNANA_IGNORE_CONF -I/home/zelion/Documents/cpptest/PassGen/build/_deps/nana-src/include -isystem /usr/include/freetype2 -g -std=c++17 -Wall -fmax-errors=3 -o _deps/nana-build/CMakeFiles/nana.dir/source/paint/text_renderer.cpp.o -c /home/zelion/Documents/cpptest/PassGen/build/_deps/nana-src/source/paint/text_renderer.cpp",
+  "file": "/home/zelion/Documents/cpptest/PassGen/build/_deps/nana-src/source/paint/text_renderer.cpp",
+  "output": "/home/zelion/Documents/cpptest/PassGen/build/_deps/nana-build/CMakeFiles/nana.dir/source/paint/text_renderer.cpp.o"
+},
+{
+  "directory": "/home/zelion/Documents/cpptest/PassGen/build",
+  "command": "/usr/bin/c++ -DNANA_IGNORE_CONF -I/home/zelion/Documents/cpptest/PassGen/build/_deps/nana-src/include -isystem /usr/include/freetype2 -g -std=c++17 -Wall -fmax-errors=3 -o _deps/nana-build/CMakeFiles/nana.dir/source/paint/detail/image_process_provider.cpp.o -c /home/zelion/Documents/cpptest/PassGen/build/_deps/nana-src/source/paint/detail/image_process_provider.cpp",
+  "file": "/home/zelion/Documents/cpptest/PassGen/build/_deps/nana-src/source/paint/detail/image_process_provider.cpp",
+  "output": "/home/zelion/Documents/cpptest/PassGen/build/_deps/nana-build/CMakeFiles/nana.dir/source/paint/detail/image_process_provider.cpp.o"
+},
+{
+  "directory": "/home/zelion/Documents/cpptest/PassGen/build",
+  "command": "/usr/bin/c++ -DNANA_IGNORE_CONF -I/home/zelion/Documents/cpptest/PassGen/build/_deps/nana-src/include -isystem /usr/include/freetype2 -g -std=c++17 -Wall -fmax-errors=3 -o _deps/nana-build/CMakeFiles/nana.dir/source/paint/detail/native_paint_interface.cpp.o -c /home/zelion/Documents/cpptest/PassGen/build/_deps/nana-src/source/paint/detail/native_paint_interface.cpp",
+  "file": "/home/zelion/Documents/cpptest/PassGen/build/_deps/nana-src/source/paint/detail/native_paint_interface.cpp",
+  "output": "/home/zelion/Documents/cpptest/PassGen/build/_deps/nana-build/CMakeFiles/nana.dir/source/paint/detail/native_paint_interface.cpp.o"
+},
+{
+  "directory": "/home/zelion/Documents/cpptest/PassGen/build",
+  "command": "/usr/bin/c++ -DNANA_IGNORE_CONF -I/home/zelion/Documents/cpptest/PassGen/build/_deps/nana-src/include -isystem /usr/include/freetype2 -g -std=c++17 -Wall -fmax-errors=3 -o _deps/nana-build/CMakeFiles/nana.dir/source/system/dataexch.cpp.o -c /home/zelion/Documents/cpptest/PassGen/build/_deps/nana-src/source/system/dataexch.cpp",
+  "file": "/home/zelion/Documents/cpptest/PassGen/build/_deps/nana-src/source/system/dataexch.cpp",
+  "output": "/home/zelion/Documents/cpptest/PassGen/build/_deps/nana-build/CMakeFiles/nana.dir/source/system/dataexch.cpp.o"
+},
+{
+  "directory": "/home/zelion/Documents/cpptest/PassGen/build",
+  "command": "/usr/bin/c++ -DNANA_IGNORE_CONF -I/home/zelion/Documents/cpptest/PassGen/build/_deps/nana-src/include -isystem /usr/include/freetype2 -g -std=c++17 -Wall -fmax-errors=3 -o _deps/nana-build/CMakeFiles/nana.dir/source/system/platform.cpp.o -c /home/zelion/Documents/cpptest/PassGen/build/_deps/nana-src/source/system/platform.cpp",
+  "file": "/home/zelion/Documents/cpptest/PassGen/build/_deps/nana-src/source/system/platform.cpp",
+  "output": "/home/zelion/Documents/cpptest/PassGen/build/_deps/nana-build/CMakeFiles/nana.dir/source/system/platform.cpp.o"
+},
+{
+  "directory": "/home/zelion/Documents/cpptest/PassGen/build",
+  "command": "/usr/bin/c++ -DNANA_IGNORE_CONF -I/home/zelion/Documents/cpptest/PassGen/build/_deps/nana-src/include -isystem /usr/include/freetype2 -g -std=c++17 -Wall -fmax-errors=3 -o _deps/nana-build/CMakeFiles/nana.dir/source/system/shared_wrapper.cpp.o -c /home/zelion/Documents/cpptest/PassGen/build/_deps/nana-src/source/system/shared_wrapper.cpp",
+  "file": "/home/zelion/Documents/cpptest/PassGen/build/_deps/nana-src/source/system/shared_wrapper.cpp",
+  "output": "/home/zelion/Documents/cpptest/PassGen/build/_deps/nana-build/CMakeFiles/nana.dir/source/system/shared_wrapper.cpp.o"
+},
+{
+  "directory": "/home/zelion/Documents/cpptest/PassGen/build",
+  "command": "/usr/bin/c++ -DNANA_IGNORE_CONF -I/home/zelion/Documents/cpptest/PassGen/build/_deps/nana-src/include -isystem /usr/include/freetype2 -g -std=c++17 -Wall -fmax-errors=3 -o _deps/nana-build/CMakeFiles/nana.dir/source/system/split_string.cpp.o -c /home/zelion/Documents/cpptest/PassGen/build/_deps/nana-src/source/system/split_string.cpp",
+  "file": "/home/zelion/Documents/cpptest/PassGen/build/_deps/nana-src/source/system/split_string.cpp",
+  "output": "/home/zelion/Documents/cpptest/PassGen/build/_deps/nana-build/CMakeFiles/nana.dir/source/system/split_string.cpp.o"
+},
+{
+  "directory": "/home/zelion/Documents/cpptest/PassGen/build",
+  "command": "/usr/bin/c++ -DNANA_IGNORE_CONF -I/home/zelion/Documents/cpptest/PassGen/build/_deps/nana-src/include -isystem /usr/include/freetype2 -g -std=c++17 -Wall -fmax-errors=3 -o _deps/nana-build/CMakeFiles/nana.dir/source/system/timepiece.cpp.o -c /home/zelion/Documents/cpptest/PassGen/build/_deps/nana-src/source/system/timepiece.cpp",
+  "file": "/home/zelion/Documents/cpptest/PassGen/build/_deps/nana-src/source/system/timepiece.cpp",
+  "output": "/home/zelion/Documents/cpptest/PassGen/build/_deps/nana-build/CMakeFiles/nana.dir/source/system/timepiece.cpp.o"
+},
+{
+  "directory": "/home/zelion/Documents/cpptest/PassGen/build",
+  "command": "/usr/bin/c++ -DNANA_IGNORE_CONF -I/home/zelion/Documents/cpptest/PassGen/build/_deps/nana-src/include -isystem /usr/include/freetype2 -g -std=c++17 -Wall -fmax-errors=3 -o _deps/nana-build/CMakeFiles/nana.dir/source/threads/pool.cpp.o -c /home/zelion/Documents/cpptest/PassGen/build/_deps/nana-src/source/threads/pool.cpp",
+  "file": "/home/zelion/Documents/cpptest/PassGen/build/_deps/nana-src/source/threads/pool.cpp",
+  "output": "/home/zelion/Documents/cpptest/PassGen/build/_deps/nana-build/CMakeFiles/nana.dir/source/threads/pool.cpp.o"
+}
+]

@@ -1,0 +1,104 @@
+{
+	"abstract" : true,
+	"backtrace" : 5,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_library",
+			"find_package",
+			"include",
+			"set_target_properties"
+		],
+		"files" : 
+		[
+			"/usr/share/cmake-4.2/Modules/FindX11.cmake",
+			"build/_deps/nana-src/build/cmake/OS.cmake",
+			"build/_deps/nana-src/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 2
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 131,
+				"parent" : 0
+			},
+			{
+				"file" : 1,
+				"parent" : 1
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 48,
+				"parent" : 2
+			},
+			{
+				"file" : 0,
+				"parent" : 3
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 1069,
+				"parent" : 4
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 1070,
+				"parent" : 4
+			}
+		]
+	},
+	"codemodelVersion" : 
+	{
+		"major" : 2,
+		"minor" : 9
+	},
+	"id" : "X11::Xcursor::@dd3f019eb051aa5ba9de",
+	"imported" : true,
+	"interfaceCompileDependencies" : 
+	[
+		{
+			"backtrace" : 6,
+			"id" : "X11::Xrender::@dd3f019eb051aa5ba9de"
+		},
+		{
+			"backtrace" : 6,
+			"id" : "X11::Xfixes::@dd3f019eb051aa5ba9de"
+		},
+		{
+			"backtrace" : 6,
+			"id" : "X11::X11::@dd3f019eb051aa5ba9de"
+		}
+	],
+	"interfaceLinkLibraries" : 
+	[
+		{
+			"backtrace" : 6,
+			"id" : "X11::Xrender::@dd3f019eb051aa5ba9de"
+		},
+		{
+			"backtrace" : 6,
+			"id" : "X11::Xfixes::@dd3f019eb051aa5ba9de"
+		},
+		{
+			"backtrace" : 6,
+			"id" : "X11::X11::@dd3f019eb051aa5ba9de"
+		}
+	],
+	"local" : true,
+	"name" : "X11::Xcursor",
+	"paths" : 
+	{
+		"build" : "_deps/nana-build",
+		"source" : "build/_deps/nana-src"
+	},
+	"sources" : [],
+	"type" : "UNKNOWN_LIBRARY"
+}
